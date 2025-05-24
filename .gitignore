@@ -1,0 +1,12 @@
+# File sensitif
+.env
+
+# File sementara Python
+__pycache__/
+*.pyc
+
+# File besar / tidak penting
+uploads/
+*.log
+
+api_config.py
